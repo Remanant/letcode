@@ -12,5 +12,6 @@ round(bill_amount, 2)
 if persons == 0:
     print("loner ass")
     print(f"you will have to pay {bill_amount}")
-if persons > 0:
+else:
     print(f"you will have to pay {bill_amount/persons}") 
+
