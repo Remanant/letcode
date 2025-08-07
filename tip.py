@@ -1,3 +1,5 @@
+//a calculator to calculate the amount of bill you have to give if you happen to go outside 
+
 print("welcome to the tip calculator.")
 total_bill = float(input("whats yout total bill? $"))
 tip_amount = float(input("percentage amount of tip you want to give?"))
